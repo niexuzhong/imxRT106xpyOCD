@@ -33,4 +33,5 @@ procedure
 
 example
 **********************************************************
-I create two python file in folder pyocd. one is for target.other is for init, you can use them directly.
+I create two python file in folder pyocd. one is for target.other is for init, you can use them directly. 
+if you have any question. you can send mail to xz_nie#hotmail.com 
